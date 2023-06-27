@@ -25,4 +25,4 @@ Full list of requirements will become available in the documentation.
 
 ---------
 
-Written by Jan Brandejs supervised by Trond Saue.
+Written by Jan Brandejs who is supervised by Trond Saue.
