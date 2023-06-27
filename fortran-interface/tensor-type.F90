@@ -17,8 +17,8 @@ module tensorType
           generic, public:: assignment(=)=>copyConstructor         !equals (copy) assignment
 
           procedure, public:: get_dimensions => getDims   ! returns the sizes of each index of the tensor
-          generic, public::   get_subtensor => getSubten  ! extracts a subtensor
-          generic, public:: print_metadata => printMeta  ! prints metadta
+          procedure, public::   get_subtensor => getSubten  ! extracts a subtensor
+          procedure, public:: print_metadata => printMeta  ! prints metadta
           procedure, private:: getDims
           procedure, private:: getSubten
           procedure, private:: printMeta 
