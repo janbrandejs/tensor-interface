@@ -5,7 +5,7 @@ tensor-interface is a specification that prescribes a set of lower-level routine
 
 __ WARNING: This is an early working version, not ready for use yet. __
 
-At the moment Python, Fortran and C versions of the interface are being developed and C++ version is to be added as well.
+At the moment Python, Fortran and C versions of the interface are being developed. C++ version is yet to be added.
 
 
 This software and the content of this repository is distributed under the LGPL license described in the attached file LICENSE.txt. Written by Jan Brandejs who is supervised by Trond Saue.
