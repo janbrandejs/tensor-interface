@@ -8,7 +8,7 @@ __ WARNING: This is an early working version, not ready for use yet. __
 At the moment Python, Fortran and C versions of the interface are being developed and C++ version is to be added as well.
 
 
-This software and the content of this repository is distributed under the LGPL license described in the attached file LICENSE.txt.
+This software and the content of this repository is distributed under the LGPL license described in the attached file LICENSE.txt. Written by Jan Brandejs who is supervised by Trond Saue.
 
 ---------
 
@@ -22,7 +22,3 @@ Selected requirements for the implementation of this interface:
 
 Full list of requirements will become available in the documentation.
 
-
----------
-
-Written by Jan Brandejs who is supervised by Trond Saue.
