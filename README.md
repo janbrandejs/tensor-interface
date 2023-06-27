@@ -3,7 +3,7 @@ _towards standardization_
 
 tensor-interface is a specification that prescribes a set of lower-level routines for performing common linear algebra operations with tensors, such as tensor contraction. It's like BLAS interface, but for tensors instead of just matrices.
 
-__ WARNING: This is an early working version, not ready for use yet. __
+**WARNING: This is an early working version, not ready for use yet.**
 
 At the moment Python, Fortran and C versions of the interface are being developed. C++ version is yet to be added.
 
