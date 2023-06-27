@@ -21,3 +21,8 @@ Selected requirements for the implementation of this interface:
 6. Unifies returns from tensor functions, exception handling
 
 Full list of requirements will become available in the documentation.
+
+
+---------
+
+Written by Jan Brandejs supervised by Trond Saue.
